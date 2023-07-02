@@ -134,9 +134,3 @@ Would you like to start again? press s for start or q for quit
 Here is a video link of the project execution.
 
 https://drive.google.com/file/d/1lGcQvHCFPlCOODa-X__pkIaVn5GkRxMv/view?usp=sharing
-
-## Technology used
-Intellij IDEA
-
-## Language 
-Java
